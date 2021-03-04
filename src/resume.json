@@ -1,0 +1,111 @@
+﻿{
+	"basics": {
+		"name": "Daniela Chávez Mendoza",
+		"title": "Sustainability and Urban Futures Specialist",
+		"picture": "images/dcm.jpg",
+		"x_pictureFallback": "images/dcm.jpg",
+		"x_title": "Welcome!",
+		"summary": "I conceive urban sustainability as an improved system where resources are available for everyone though consumed in a responsible manner. Innovation is brought by multidisciplinary collaboration and technology is put at the service of people. I work in projects that reflect this, enthusiastic about evidence-based policymaking, open-sourced tools, smart governance and social and environmental justice. Join me to discuss about it!",
+		"location": {
+			"country": "Switzerland",
+			"countryCode": "CH",
+			"region": "Geneva"
+		},
+		"profiles": [{
+				"network": "LinkedIn",
+				"username": "danielachvzm1204",
+				"url": "https://www.linkedin.com/in/danielachavezm1204/",
+				"x_icon": "fab fa-2x fa-linkedin"
+			},
+			{
+				"network": "Medium",
+				"username": "@danielachvzm",
+				"url": "https://danielachvzm.medium.com/",
+				"x_icon": "fab fa-2x fa-medium"
+			}
+		]
+	},
+	"education": [{
+			"uni": "Université de Genève",
+			"course": "Master of Innovation, Human Development and Sustainability",
+			"degreedate": "2021-01-01",
+			"country": "Switzerland",
+			"highlights": "Future Cities and Territories Specialization"
+		},
+		{
+			"uni": "Tsinghua University",
+			"course": "Master of Public Administration",
+			"degreedate": "2021-01-01",
+			"country": "China",
+			"highlights": "Master Thesis Excellence Award"
+		},
+		{
+			"uni": "Instituto Tecnológico y de Estudios Superiores de Monterrey CCM",
+			"course": "Bachelor in International Relations",
+			"degreedate": "2015-05-01",
+			"country": "Mexico",
+			"highlights": "Semester Exchange at Universitá degli Studi di Verona"
+		}
+	],
+	"work": [{
+			"company": "gluoNNet",
+			"position": "Analyst",
+			"startDate": "2019-01-15",
+			"endDate": "2019-09-01",
+			"summary": "Analysis and support on the use of Big Data technologies for the development sector",
+			"highlights": []
+		},
+		{
+			"company": "Novaera",
+			"position": "High Impact Program Manager",
+			"startDate": "2017-01-02",
+			"endDate": "2018-08-30",
+			"summary": "Design, planning and execution of 3 governmental innovation and entrepreneurship programs",
+			"highlights": []
+		},
+		{
+			"company": "CODEC",
+			"position": "Sustainability Consultant",
+			"startDate": "2016-10-01",
+			"endDate": "Social and environmental strategies implementation for SMEs",
+			"summary": "Generation of Nazi!",
+			"highlights": []
+		},
+		{
+			"company": "Global Institute for Sustainability",
+			"position": "Project Manager",
+			"startDate": "2014-08-08",
+			"endDate": "2015-05-30",
+			"summary": "Research and outreach for fostering SMEs competitiveness through adopting sustainable practices.",
+			"highlights": []
+		}
+	],
+
+	"articles": [{
+			"title": "Master Thesis: Segregated Access to Water in Mexico City: Opportunities for Targeted Evidence-Based Policies",
+			"image": "images/water.jpg",
+			"abstract": "Discrepancies in access to water largely prevail in urban contexts. Mexico City poses as one big archetype of inequalities, including inequalities in access to water. The most basic resource for human survival, water, is unevenly distributed amongst its inhabitants. Inequality poses a big hindrance to sustainability, negatively influencing other social, economic and environmental aspects. An unfair distribution of resources deepens other sorts of inequalities, unfolds social conflicts and deprives several social groups from a dignified life. The current water policies have been insufficient to tackle this problem, as the main guidelines for water management have been oriented towards solving technical problems. There is a considerable need to expand the social dimension of public policies that incorporate solid evidence that embrace the complexity and multidimensionality of water. While the use of evidence for policymaking is an emerging practice in Mexico, there are ongoing efforts for expanding it. Orienting new policies to solve the social dimension seems like a colossal enterprise but the findings suggest that better, spatially targeted policies are a possible alternative, and can be attained by building a more prominent interface between evidence and policymaking.",
+			"url": ""
+		},
+		{
+			"title": "Keur Massar, a lake of opportunities. Baseline assessment for sustainable dwelling.",
+			"image": "images/lake.jpg",
+			"abstract": "Keur Massar is one of the sixteen communes of Pikine, the second largest municipality in Senegal. The expansion of the country's capital, Dakar, has led people to settle in Keur Massar, with an unprecedented population of 590,000 inhabitants. Droughts in the 1950s and 1960s, transformed the landscape into a mostly dry area, but the return of normal rainflood has made the population that inhabits Keur Massar, face several floods. The urbanization cannot be stopped, but the risks that the population faces can be decreased. The present report provides a baseline for a dwelling development around the Lake Dekh Bu Mag, laying out the social, environmental and cultural aspects to be assessed before the construction begins. I coollaborated on this report with my colleagues from the Master in African Studies, Master in Urban Territories and Master in Innovation, Human Development and Sustainability ",
+			"url": "files/A_Lake_of_Opportunities.pdf"
+		},
+		{
+			"title": "Sand and Sustainability: Finding new solutions for environmental governance of global sand resources.",
+			"image": "images/sand.jpg",
+			"abstract": "Environmental and social impacts of sand extraction and consumption is a new issue for the international community. United Nations Environment Programme / GRID Geneva and the University of Geneva held an expert roundtable event on 11 October 2018 in Geneva, Switzerland to produce an action-oriented starting point for a global conversation on how sand resources could be consumed and produced responsibly in future. This report summarises the problem analysis, case studies and main messages suggested at this event by twenty primary participants. Expert perspectives were verified and supplemented with academic and grey literature reviews and an external review process. As student of the Geneva-Tsinghua Initiative Master in Innovation, Human Development and Sustainability at the University of Geneva, I synthesised with my classmates the roundtable discussions and contributed insights from innovation project work undertaken on the theme of sand and sustainability.",
+			"url": "files/Sand_and_sustainability_UNEP_2019_c.pdf"
+		},
+		{
+			"title": "The Carouge Zéro Déchet initiative as a social innovation in sustainable consumption.",
+			"image": "images/sustainable.jpg",
+			"abstract": "11 billion tons of solid waste generated a year create tremendous pressure on the environment. As a way to address the urgent need for a more holistic and sustainable waste management, the idea of Zero Waste emerged. The philosophy of Zero Waste consists in sending nothing to landfills or incinerators, encouraging to rethink the consumption and production systems. The present report explores the initiative ‘Carouge Zéro Déchet’ as a social innovation, which intends to reduce the incinerated waste by 30% in the span of 3 years. This collaborative report was writen by Nina Quintas, Isabelle Vetterli, Nora Breugelmans and Daniela Chávez .",
+			"url": "files/Sustainable_consumption_and_social_innovation_in_Zerowaste.pdf"
+
+
+		}
+	]
+}

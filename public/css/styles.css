@@ -1,0 +1,29 @@
+html {
+    scroll-behavior: smooth;
+}
+body {
+    font-family: 'Nunito', sans-serif;
+}
+.is-180x180 {
+    height: 180px;
+    width: 180px;
+}
+.is-yellow {
+    background-color: #BBDEFB !important;
+}
+.my-background {
+    background-color: #BBDEFB;
+}
+.has-bg-image {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.bulma-image {
+    width: 200px;
+}
+.summary-text {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 36em;
+}
